@@ -1,2 +1,2 @@
-# edan
-Pro
+Pkg install
+Pkg upgrade
